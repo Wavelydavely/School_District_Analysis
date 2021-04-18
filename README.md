@@ -12,8 +12,11 @@ How is the district summary affected?
   -Percent passing math has declined by 0.2%
   -Percent passing reading is down 0.3%
   -Percent overall passing is slightly diminished by 0.1%
+  
 How is the school summary affected?
+
   -Thomas High School:
+  
      -Average math score down <0.1 point (negligible)
      -Average reading score up <0.1 point (negligible)
      -Percent passing math down 0.1%
@@ -22,19 +25,25 @@ How is the school summary affected?
   
   
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
   -Thomas High School was unaffected in its relative performance to other schools. THS is still the second-highest performing school overall.
 
 How does replacing the ninth-grade scores affect the following:
+
   Math and reading scores by grade
+  
     -THS has no 9th grade math and reading scores. Fortunately, no other schools or grades are affected.
 
   Scores by school spending
+  
     -Second highest bracket was not not affected in average scores or percent passing either subject or overall passing.
 
   Scores by school size
+  
     -Thomas High School is in the medium-sized tier, which was not affected by replacing 9th-grade scores.
 
   Scores by school type
+  
     -Thomas High School, a charter school, did not contribute to a statistically significant change in charter schools when their 9th grade scores were replaced.    
 
 #Summary:
